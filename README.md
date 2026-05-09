@@ -35,11 +35,11 @@
 - Postman • Android Studio • Docker (cơ bản)
 
 ### 📊 GitHub Stats
-*(Stats sẽ hiển thị rõ sau khi có thêm repo và commit)*
+*(Stats sẽ tự hiển thị sau khi có thêm repo và commit)*
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thanhtqx&show_icons=true&theme=tokyonight&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thanhtqx&show_icons=true&theme=radical&hide_title=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtqx&layout=compact&theme=tokyonight&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtqx&layout=compact&theme=radical&hide_title=true)
 
 ### 🌟 Currently Learning & Working On
 - Xây dựng các project nhỏ với Python & Java

@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hi there, I'm Trần Q. Thanh</h1>
   <h3>Aspiring Full-stack & Automation Developer from Vietnam</h3>
-  
+
   [![GitHub followers](https://img.shields.io/github/followers/thanhtqx?label=Follow&style=social)](https://github.com/thanhtqx)
 </div>
 
@@ -35,10 +35,11 @@
 - Postman • Android Studio • Docker (cơ bản)
 
 ### 📊 GitHub Stats
+*(Stats sẽ hiển thị rõ sau khi có thêm repo và commit)*
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thanhtqx&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thanhtqx&show_icons=true&theme=tokyonight&hide_title=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtqx&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtqx&layout=compact&theme=tokyonight&hide_title=true)
 
 ### 🌟 Currently Learning & Working On
 - Xây dựng các project nhỏ với Python & Java

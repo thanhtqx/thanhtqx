@@ -71,7 +71,7 @@ Mình học bằng cách **làm project, đọc code, sửa lỗi và commit th�
 
 | Project | Mô tả |
 |---------|--------|
-| [**apj-dictionary-case-study**](https://github.com/thanhtqx/apj-dictionary-case-study) | Case Study Java — chương trình xây dựng từ điển (OOP, Design Pattern, JUnit) |
+| [**dictionary-builder**](https://github.com/thanhtqx/dictionary-builder) | Case Study Java — chương trình xây dựng từ điển (OOP, Design Pattern, JUnit) |
 
 *Repo khác sẽ được cập nhật dần khi mình hoàn thành thêm bài tập.*
 

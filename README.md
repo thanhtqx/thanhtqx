@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:388bfd,100:0d1117&height=220&section=header&text=Trần%20Quang%20Thanh&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20%26%20Automation%20Developer&descSize=18&descAlignY=62&descAlign=50" width="100%"/>
+![Trần Quang Thanh](https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:388bfd,100:0d1117&height=220&section=header&text=Trần%20Quang%20Thanh&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20%26%20Automation%20Developer&descSize=18&descAlignY=62&descAlign=50)
 
 <div align="center">
 
